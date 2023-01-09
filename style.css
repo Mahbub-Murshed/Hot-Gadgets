@@ -1,0 +1,48 @@
+.buy-now-button {
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 8px;
+    padding: 9px 20px;
+    cursor: pointer;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.p-2 h6 {
+    color: orangered;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 15px lightgrey;
+}
+
+.category h1 {
+
+    text-align: center;
+    text-decoration: underline orangered;
+}
+
+.cat1 {
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+
+.cat2 {
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+
+.cat3 {
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
